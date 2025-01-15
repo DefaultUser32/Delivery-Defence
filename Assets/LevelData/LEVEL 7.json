@@ -1,0 +1,83 @@
+{
+  "waveEvents": [
+    {
+      "eventType": 1,
+      "sendEvent": {
+        "sendType": 1,
+        "quantity": 30,
+        "spacing": 0.5
+      },
+      "waitTime": 0,
+      "specialEvent": null
+    },
+    {
+      "eventType": 2,
+      "sendEvent": null,
+      "waitTime": 0.0,
+      "specialEvent": {
+        "eventName": 1,
+        "eventData": 0
+      }
+    },
+    {
+      "eventType": 0,
+      "sendEvent": null,
+      "waitTime": 2.0,
+      "specialEvent": null
+    },
+    {
+      "eventType": 1,
+      "sendEvent": {
+        "sendType": 2,
+        "quantity": 20,
+        "spacing": 0.4
+      },
+      "waitTime": 0,
+      "specialEvent": null
+    },
+    {
+      "eventType": 2,
+      "sendEvent": null,
+      "waitTime": 0,
+      "specialEvent": {
+        "eventName": 1,
+        "eventData": 0
+      }
+    },
+    {
+      "eventType": 1,
+      "sendEvent": {
+        "sendType": 0,
+        "quantity": 25,
+        "spacing": 0.3
+      },
+      "waitTime": 0,
+      "specialEvent": null
+    },
+    {
+      "eventType": 0,
+      "sendEvent": null,
+      "waitTime": 1.5,
+      "specialEvent": null
+    },
+    {
+      "eventType": 2,
+      "sendEvent": null,
+      "waitTime": 0.0,
+      "specialEvent": {
+        "eventName": 1,
+        "eventData": 0
+      }
+    },
+    {
+      "eventType": 1,
+      "sendEvent": {
+        "sendType": 1,
+        "quantity": 15,
+        "spacing": 0.2
+      },
+      "waitTime": 0,
+      "specialEvent": null
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "waveEvents": [
+    {
+      "eventType": 1,
+      "sendEvent": {
+        "sendType": 0,
+        "quantity": 5,
+        "spacing": 1
+      },
+      "waitTime": 0.0,
+      "specialEvent": null
+    },
+    {
+      "eventType": 0,
+      "sendEvent": null,
+      "waitTime": 3,
+      "specialEvent": null
+    },
+    {
+      "eventType": 1,
+      "sendEvent": {
+        "sendType": 1,
+        "quantity": 1,
+        "spacing": 1
+      },
+      "waitTime": 0.0,
+      "specialEvent": null
+    },
+    {
+      "eventType": 0,
+      "sendEvent": null,
+      "waitTime": 2.5,
+      "specialEvent": null
+    }
+  ]
+}
